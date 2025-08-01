@@ -27,3 +27,12 @@ This project deploys a multi-service Docker app (React + Express + MongoDB) on a
 
 5. Azure Blob Storage 
    - Stores JSON audit logs for tracking low-stock events.
+
+## 🐳 Docker Compose Usage (VM Containers)
+The frontend, backend, and database run in containers orchestrated by **Docker Compose**.
+
+### **Start Services**
+```bash
+git clone https://github.com/docker/awesome-compose.git
+cd awesome-compose/react-express-mongodb
+docker-compose up -d
