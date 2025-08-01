@@ -1,7 +1,7 @@
 # CSPCP9
 
 📌 Overview
-This project deploys a **multi-service Docker app (React + Express + MongoDB) on an Azure VM, integrates with an Azure Function (serverless) for event-driven processing, and uses Azure Blob Storage.
+This project deploys a multi-service Docker app (React + Express + MongoDB) on an Azure VM, integrates with an Azure Function (serverless) for event-driven processing, and uses Azure Blob Storage.
 
 ---
 
